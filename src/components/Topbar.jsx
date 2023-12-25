@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "../assets/MicrosoftTeams-image (8) 1.jpg";
 import { PiMagnifyingGlassBold } from "react-icons/pi";
 import { BsQuestionCircle } from "react-icons/bs";
